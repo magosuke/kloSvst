@@ -1,2 +1,2 @@
-# kloSvst
+# kloSvst (tracked by git)
 ＳＶＭをするためのソースコードたち
