@@ -1,5 +1,6 @@
 # https://qiita.com/tomov3/items/039d4271ed30490edf7b
 # coding: UTF-8
+# test
 
 ##### training section #####
 # 必要なライブラリの import
